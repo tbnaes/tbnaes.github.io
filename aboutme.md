@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you should read every word on the page
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Tyler Naes. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I get bored easily
+- I'm lacking sleep usually
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm not sure that you have the time to read my entire story right now. Also, I have other things I need to do rather than write it. Until these two align in the future, please pursue what interests you most in life to the utmost of your ability.
+
