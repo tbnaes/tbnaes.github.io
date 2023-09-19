@@ -7,9 +7,7 @@ subtitle: Why you should read every word on the page
 My name is Tyler Naes. I have the following qualities:
 
 - I get bored easily
-- I'm lacking sleep usually
-
-What else do you need?
+- I'm usually lacking sleep
 
 ### My story
 
